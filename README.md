@@ -1,2 +1,2 @@
-# first-repository
+# first
 Its a markdone repository...
