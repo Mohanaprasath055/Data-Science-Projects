@@ -1,2 +1,3 @@
-# first
+# Data Science
+   # By Mohanaprasath
 Its a markdone repository...
